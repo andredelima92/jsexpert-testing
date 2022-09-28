@@ -1,0 +1,1 @@
+{"processes":{"8cc60abe-11ba-4c1e-9a92-3f07ca9efd7c":{"parent":null,"children":["feb96e73-7da8-4b6e-afef-7526e79991be"]},"feb96e73-7da8-4b6e-afef-7526e79991be":{"parent":"8cc60abe-11ba-4c1e-9a92-3f07ca9efd7c","children":[]}},"files":{"/var/www/html/jsexpert/tests/aula04-coverage-e2e/api.js":["feb96e73-7da8-4b6e-afef-7526e79991be"]},"externalIds":{}}
