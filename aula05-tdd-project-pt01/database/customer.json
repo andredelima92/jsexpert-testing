@@ -1,0 +1,9 @@
+[
+  { "id": "1afe5dfc-2aed-4e93-a580-098fec7e4750", "name": "Daphne", "age": 50 },
+  {
+    "id": "5eab1648-ddb7-4ba8-9480-4affea522ad6",
+    "name": "Estella",
+    "age": 43
+  },
+  { "id": "c8ccf81b-53eb-49ed-b247-42d2436d3f3d", "name": "Ambrose", "age": 46 }
+]
