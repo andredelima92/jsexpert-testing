@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5b605352-3c2d-4053-9ff4-de88ec9e952f",
+    "name": "XTS",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "43813a3a-6105-41f3-8d3f-a5d122729c1f",
+    "name": "Escalade",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c822202f-5908-4126-b461-33df4c6de502",
+    "name": "Prius",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
